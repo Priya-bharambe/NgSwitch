@@ -1,0 +1,9 @@
+li{
+    list-style-type: none;
+}
+.bg{
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding: 100px;
+}
